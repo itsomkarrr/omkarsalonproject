@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.login-form{
+    background-color: #453732;
+}
+
+body{
+    background-color: #2a201c;
+}
+
+div.login-form{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 400px;
+}
+
+form h4{
+    background-color: #1b1512;
+    text-align: center;
+    color: rgb(241, 233, 222);
+}
+
+.custom-bg{
+    background-color: burlywood;
+    color: #2a201c;
+}
+
+.custom-alert{
+    position: fixed;
+    top: 25px;
+    right: 25px;
+}
+
+form button.btn{
+    background-color: #1b1512;
+}
+
+form button.btn:hover{
+    background-color: #281e1b;
+    color: #3d322f;
+}

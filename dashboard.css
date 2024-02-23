@@ -1,0 +1,31 @@
+body {
+    background-color: #1e1613;
+}
+
+.container-fluid {
+    background-color: #2a201c;
+}
+
+
+button.btn {
+    background-color: #1e1613;
+}
+
+
+.custom-alert {
+    position: fixed;
+    top: 80px;
+    right: 25px;
+}
+
+#dashboard-menu {
+    position: fixed;
+    height: 100%;
+    z-index: 11;
+
+}
+
+#main-content {
+    height: 100%;
+}
+
